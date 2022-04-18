@@ -1,0 +1,9 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Vertcore Node and Utilities for Vertcoin on CentOS VM",
+  "description": "This template uses the Azure Linux CustomScript extension to deploy a Vertcore Node instance with the complete set of Vertcoin utilities. The deployment template creates a CentOS VM, installs Vertcore and provides a simple vertcored executable. With this template, you will be running a full node on the Vertcoin network as well as a block explorer called Insight.",
+  "summary": "Deploy a CentOS VM with a Vertcore Node on the Vertcoin network.",
+  "githubUsername": "cruelnovo",
+  "dateUpdated": "2022-04-18"
+}
